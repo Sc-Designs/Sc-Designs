@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://res.cloudinary.com/djvcxoyno/image/upload/v1781783890/users/ProfilePic/user_6899ebb5b50d8ca95b2d3395_profilePic.avif" width="160" alt="Suvam Chakraborti profile photo" />
+
 # 👋 Hey, I'm Suvam Chakraborti
 
-### Full-Stack Developer · TypeScript · React · Node.js · MongoDB
+### Full-Stack Developer · TypeScript · React · Node.js · PostgreSQL · MongoDB
 
 I build and ship web applications end to end, from data models and APIs to polished user experiences.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Sc-Designs)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=7C3AED&label=👀+PROFILE+VISITS)](https://github.com/Sc-Designs)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvam-chakraborti-697770296/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suvam.info)
@@ -60,13 +62,14 @@ A Dockerized platform built from six microservices for users, admins, organizati
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-**Also:** REST APIs · Microservices · Socket.IO · Mongoose · JWT · RBAC · Razorpay · Cloudinary · Git · Postman · PM2 · Render · Netlify
+**Also:** REST APIs · Microservices · Socket.IO · PostgreSQL · Mongoose · JWT · RBAC · Razorpay · Cloudinary · Git · Postman · PM2 · Render · Netlify
 
 ## 🎓 Education & learning
 
