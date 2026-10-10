@@ -1,27 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend Development.<br>🌱 I’m currently learning React, Nodejs, Expressjs etc.<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+# 👋 Hey, I'm Suvam
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/soham.banarjee.35) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asyncsuvamchakraborti/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvam-chakraborti-697770296/) 
+### Frontend Developer | Building for the web
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sc-Designs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sc-Designs&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sc-Designs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I’m focused on crafting clean, engaging web experiences and growing my skills across the modern JavaScript stack.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Sc-Designs)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sc-Designs&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sc-Designs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+
+- 🔭 Currently working on **frontend development**
+- 🌱 Learning **React, Node.js, and Express.js**
+- 💬 Happy to talk about **JavaScript, React, HTML, and CSS**
+- ⚡ I enjoy turning ideas into interactive experiences
+
+## 🌐 Find me around the web
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvam-chakraborti-697770296/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asyncsuvamchakraborti/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soham.banarjee.35)
+
+</div>
+
+## 🧰 Tech I use and explore
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📈 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sc-Designs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Suvam's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sc-Designs&theme=tokyonight&hide_border=true" alt="Suvam's GitHub streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sc-Designs&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 💭 A little inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 🚀
+
+<sub>Made with curiosity and a love for building on the web.</sub>
+
+</div>
