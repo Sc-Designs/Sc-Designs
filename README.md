@@ -118,7 +118,7 @@ A six-service platform for AI-driven technical interviews.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sc-Designs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sc-Designs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Sc-Designs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sc-Designs&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top languages" />
