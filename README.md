@@ -1,131 +1,172 @@
 <div align="center">
 
-<!-- Animated header with custom SVG banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=200&section=header&text=Suvam%20Chakraborti&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=60&descSize=18&animation=fadeIn" alt="Suvam Chakraborti" />
+<!-- Animated banner (twinkling stars) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=230&section=header&text=Suvam%20Chakraborti&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=60&descSize=18&animation=twinkling" alt="Suvam Chakraborti" />
+
+<!-- Typing animation -->
+<a href="https://suvam.info">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Self-taught.+Solo.+Shipping.;Sole+developer+of+a+production+SaaS+ERP;1%2C500%2B+live+orders+and+counting;Building+an+AI-powered+interview+platform;I+own+the+full+stack.+No+handoffs." alt="Typing animation" />
+</a>
 
 <br/>
 
+<!-- Links -->
 <a href="https://suvam.info">
-  <img src="https://img.shields.io/badge/suvam.info-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-suvam.info-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/suvam-chakraborti-697770296/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:suvam@suvam.info">
-  <img src="https://img.shields.io/badge/suvam@suvam.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-suvam@suvam.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://komarev.com/ghpvc/?username=Sc-Designs">
-  <img src="https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 
 </div>
 
----
+<br/>
 
-## ⚡ Who am I?
+<img src="./divider.svg" width="100%" alt="" />
 
-Self-taught. Solo. Shipping.
-
-I'm a Full-Stack Developer based in **Durgapur, India** — currently sole developer of a **production SaaS ERP** at KT Computech, and independently building an **AI-powered interview platform** on a microservices architecture.
-
-I own the full stack: schema design, API architecture, real-time systems, deployment, and the UI. No handoffs.
-
----
-
-## 🔥 Currently in production
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32" /> About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🏭 ERP & Retail Platform
-**KT Computech · Aug 2025 – Present**
+> **Self-taught. Solo. Shipping.**
 
-A multi-portal SaaS system for inventory, billing, accounting, and delivery — built solo from scratch.
+I'm a Full-Stack Developer who is currently the **sole developer of a production SaaS ERP** at KT Computech, and independently building an **AI-powered interview platform** on a microservices architecture.
 
-- **1,500+ live orders** processed
-- Admin, customer & delivery-agent portals with JWT + RBAC
-- Real-time order tracking via **Socket.IO**
-- PDF/Excel reports, barcode scanning, receipt printing
-- Rate limiting (Redis), Helmet, XSS & NoSQL injection guards
-- Deployed on Render + Netlify + Cloudflare Tunnel
+I own the full stack: schema design, API architecture, real-time systems, deployment, and the UI. **No handoffs.**
 
 </td>
-<td width="50%">
+<td width="40%" valign="top">
 
-### 🤖 AI Interview Platform
-**Personal · Dockerized microservices**
+**Quick facts**
 
-Six-service platform for AI-driven technical interviews.
-
-- **Gemini** for question generation and structured feedback
-- **Groq Whisper** for live speech transcription
-- Real-time interview sessions via Socket.IO
-- Anti-cheat: tab-switch, fullscreen, clipboard & DevTools detection
-- Organization analytics with candidate-level score breakdowns
+📍 Durgapur, West Bengal, India  
+💼 Full-Stack Developer @ KT Computech  
+🎓 BCA · ABS Academy · 2025  
+🏅 Swami Vivekananda Scholarship  
+🌐 [suvam.info](https://suvam.info)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 Stack
-
 <div align="center">
 
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Infra & AI
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111)
+![Live Orders](https://img.shields.io/badge/Live_Orders-1500%2B-6366F1?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/AI_Platform-6_Services-8B5CF6?style=for-the-badge)
+![Portals](https://img.shields.io/badge/ERP_Portals-3-A855F7?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Shipping_Since-Aug_2025-111827?style=for-the-badge)
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## 📊 GitHub
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32" /> Currently in Production
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 ERP & Retail Platform
+**KT Computech · Aug 2025 – Present**
+
+A multi-portal SaaS system for inventory, billing, accounting, and delivery, built solo from scratch.
+
+- 📦 **1,500+ live orders** processed
+- 🔐 Admin, customer & delivery-agent portals with **JWT + RBAC**
+- ⚡ Real-time order tracking via **Socket.IO**
+- 🧾 PDF/Excel reports, barcode scanning, receipt printing
+- 🛡️ Redis rate limiting, Helmet, XSS & NoSQL injection guards
+- ☁️ Deployed on Render + Netlify + Cloudflare Tunnel
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Interview Platform
+**Personal · Dockerized microservices**
+
+A six-service platform for AI-driven technical interviews.
+
+- 🧠 **Gemini** for question generation and structured feedback
+- 🎙️ **Groq Whisper** for live speech transcription
+- 🔌 Real-time interview sessions via **Socket.IO**
+- 🚨 Anti-cheat: tab-switch, fullscreen, clipboard & DevTools detection
+- 📊 Organization analytics with candidate-level score breakdowns
+- 🐳 Containerized with **Docker**
+
+</td>
+</tr>
+</table>
+
+<img src="./divider.svg" width="100%" alt="" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32" /> Tech Stack
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sc-Designs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sc-Designs&theme=tokyonight&hide_border=true" />
+
+<img src="./tech-marquee.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, React, Redux Toolkit, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, Socket.IO, Gemini, Groq Whisper, Cloudflare, Render" />
+
 </div>
 
+<img src="./divider.svg" width="100%" alt="" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" /> GitHub Stats
+
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sc-Designs&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sc-Designs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Sc-Designs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sc-Designs&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top languages" />
+
+<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sc-Designs/Sc-Designs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sc-Designs/Sc-Designs/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sc-Designs/Sc-Designs/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## 🎓 Background
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32" /> Background
 
-**BCA · ABS Academy · Durgapur · 2025 · CGPA 7.79**  
-Swami Vivekananda Scholarship recipient  
+| | |
+|---|---|
+| **Education** | BCA · ABS Academy, Durgapur · 2025 · CGPA 7.79 |
+| **Scholarship** | Swami Vivekananda Scholarship recipient |
+| **Certifications** | Cyber Security & Ethical Hacking (ISOEH) · Front-End Domination (Sheryians) · Job-Ready Hackathon (Sheryians) |
 
-Certifications: Cyber Security & Ethical Hacking (ISOEH) · Front-End Domination (Sheryians) · Job-Ready Hackathon (Sheryians)
+<img src="./divider.svg" width="100%" alt="" />
 
----
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32" /> Let's Connect
+
+Got a project, an idea, or just want to talk code? Reach out.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,A855F7&height=100&section=footer&animation=fadeIn" alt="footer" />
+<a href="https://suvam.info">
+  <img src="https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/suvam-chakraborti-697770296/">
+  <img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:suvam@suvam.info">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-**Building things that work. Shipping things that matter.**  
-[suvam.info](https://suvam.info) · [LinkedIn](https://www.linkedin.com/in/suvam-chakraborti) · [suvam@suvam.info](mailto:suvam@suvam.info)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+things+that+work.;Shipping+things+that+matter." alt="Closing tagline" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=100&section=footer&animation=twinkling" alt="footer" />
 
 </div>
