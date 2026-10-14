@@ -20,9 +20,6 @@
 <a href="mailto:suvam@suvam.info">
   <img src="https://img.shields.io/badge/Email-suvam@suvam.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://komarev.com/ghpvc/?username=Sc-Designs">
-  <img src="https://komarev.com/ghpvc/?username=Sc-Designs&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
 
 </div>
 
